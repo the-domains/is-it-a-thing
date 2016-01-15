@@ -1,0 +1,28 @@
+name: Is it a thing?
+favicon: null
+layout_spectrum: 0.25610418734140694
+typography_spectrum: 0.03141529066488147
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.890904406318441
+  lightness: 0.418200763175264
+  saturation: 0.9737363534513861
+  rhythmicContrast: 0.9819209675770253
+purpose: []
